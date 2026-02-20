@@ -1,0 +1,4 @@
+project_id = "ukxxtgxjvlfkzlvsjrjy"
+
+[functions.github-remix]
+verify_jwt = false
